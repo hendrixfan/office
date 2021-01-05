@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object name="labelSilent" width="152.44" height="32">
+  <text fontfamily="Roboto" pixelsize="23" color="#aaff00" bold="1">Stiller Bereich</text>
+ </object>
+</template>
