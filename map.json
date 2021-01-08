@@ -133,7 +133,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/git.pludoni.com\/dashboard\/todos"
+                 "value":"https:\/\/www.empfehlungsbund.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -236,7 +236,7 @@
  "nextobjectid":27,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.1",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
