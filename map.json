@@ -43,7 +43,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"Experiment#367.mp3"
+                 "value":"ExperimentNr367.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
